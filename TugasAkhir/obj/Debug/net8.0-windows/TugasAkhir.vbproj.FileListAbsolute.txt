@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\TugasAkhir\bin\Debug\net8.0-windows\TugasAkhir.exe
+C:\Users\Lenovo\source\repos\TugasAkhir\bin\Debug\net8.0-windows\TugasAkhir.deps.json
+C:\Users\Lenovo\source\repos\TugasAkhir\bin\Debug\net8.0-windows\TugasAkhir.runtimeconfig.json
+C:\Users\Lenovo\source\repos\TugasAkhir\bin\Debug\net8.0-windows\TugasAkhir.dll
+C:\Users\Lenovo\source\repos\TugasAkhir\bin\Debug\net8.0-windows\TugasAkhir.pdb
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.Form1.resources
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.Resources.resources
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.dll
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\refint\TugasAkhir.dll
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.pdb
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\TugasAkhir.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\TugasAkhir\obj\Debug\net8.0-windows\ref\TugasAkhir.dll

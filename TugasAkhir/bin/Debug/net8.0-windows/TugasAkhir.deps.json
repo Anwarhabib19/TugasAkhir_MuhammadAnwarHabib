@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TugasAkhir/1.0.0": {
+        "runtime": {
+          "TugasAkhir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TugasAkhir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
